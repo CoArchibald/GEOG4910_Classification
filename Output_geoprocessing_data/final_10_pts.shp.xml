@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20250114</CreaDate><CreaTime>19082600</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Geostatistical Analyst Tools.tbx\SubsetFeatures" Date="20250114" Time="190826">SubsetFeatures Init_pts_BLM D:\GIS\Adv_GIS\week_2\Data\Output_geoprocessing_data\final_10_pts.shp # 10 ABSOLUTE_VALUE</Process></lineage></DataProperties></Esri></metadata>
